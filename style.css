@@ -1,0 +1,38 @@
+#container {
+    background-color: #FDE5D0;
+    text-align: center;
+    }
+
+    h1 {
+    font-family: "Noto Serif", serif;
+    font-style: italic;
+    font-size: 36pt;
+    }
+    
+
+.verse {
+    font-family: "Noto Sans", sans-serif;
+    font-style: light;
+    font-size: 14pt;
+
+}
+#author-img {
+    width: 127px;
+    height:153px;
+    border-radius: 10px;
+    text-align:left;
+}
+#author-name {
+    font-family: "Noto Serif", serif;
+    font-size: 16pt; 
+    
+}  
+    
+.bottom {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+      .text {
+        padding-left: 20px
+      }
